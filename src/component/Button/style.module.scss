@@ -1,0 +1,16 @@
+.btn {
+    width:50px;
+    height:50px;
+    background-color:#00640034;
+    color:  rgba(128, 252, 128, 0.979);
+    border-radius: 50px;
+    border:none;
+    outline: none;
+    transition: ease-in-out 200ms ;
+    color: #000000;
+    cursor: pointer;
+    user-select: none;
+    &:hover {
+        color: #ffffff;
+    }
+}
