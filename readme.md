@@ -1,5 +1,3 @@
-# Progect form Itop Agancy
-
 ### TASK
 
 on React
